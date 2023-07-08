@@ -24,7 +24,15 @@ export default function TopBar() {
         <div className="topbarIcons">
           <div className="topbarIconItem">
             <Person />
-            <span className="topbarIconBadge"></span>
+            <span className="topbarIconBadge">1</span>
+          </div>
+          <div className="topbarIconItem">
+            <Person />
+            <span className="topbarIconBadge">1</span>
+          </div>
+          <div className="topbarIconItem">
+            <Person />
+            <span className="topbarIconBadge">1</span>
           </div>
         </div>
       </div>
